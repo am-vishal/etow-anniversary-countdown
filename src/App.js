@@ -48,8 +48,8 @@ function App() {
 
   return (
     <div className="tc center mv0 mw0 dib ph4 f2 p2 pa4-ns br3">
-      <h2 style={{ textShadow: "1px 1px 2px black", textDecoration: "underline" }}>ETOW {year} </h2>
-      <h4 style={{ fontFamily: "pristina" }}>With pride & joy we would like to invite you on 12th August to celebrate our ETOW 4th anniversary.
+      <h2 style={{ textShadow: "1px 1px 2px black", textDecoration: "underline", fontSize: "1.2em" }}>ETOW {year} </h2>
+      <h4 style={{ fontFamily: "'Great Vibes', cursive;" }}>With pride & joy we would like to invite you on 12th August to celebrate our ETOW 4th anniversary.
       We are so grateful that you have given us some of our most precious memories in our lives by your love and support. It would be great pleasure to have you with us on this special day.</h4>
       {timerComponents.length ? timerComponents : < span id="firework"></span>}
       <br />
