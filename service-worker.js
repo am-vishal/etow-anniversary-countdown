@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/etow-anniversary-countdown/precache-manifest.9219283e31d44efa6051261414aecf4b.js"
+  "/etow-anniversary-countdown/precache-manifest.df0427faa8bc0ef41095feb1260910bb.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "265946cb6c4db2e8203ecd3470d4d01d",
+    "revision": "1b33f6aa7b8dc482216c820cbbc43d4f",
     "url": "/etow-anniversary-countdown/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/etow-anniversary-countdown/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "37cc2dc1aec7ebb56381",
-    "url": "/etow-anniversary-countdown/static/css/main.b8105ff3.chunk.css"
+    "revision": "e011f72c846fb5a436f9",
+    "url": "/etow-anniversary-countdown/static/css/main.e960b451.chunk.css"
   },
   {
     "revision": "3c8c75ee0b46889a4918",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/etow-anniversary-countdown/static/js/2.35f9ba37.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37cc2dc1aec7ebb56381",
-    "url": "/etow-anniversary-countdown/static/js/main.061ff28d.chunk.js"
+    "revision": "e011f72c846fb5a436f9",
+    "url": "/etow-anniversary-countdown/static/js/main.6a863eb3.chunk.js"
   },
   {
     "revision": "865ee1de065edcf37540",
